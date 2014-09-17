@@ -36,5 +36,5 @@
 <!--End mc_embed_signup-->
 <div style="float: left; width: 50%; text-align:right;">
   <p>Designed for Key Stage 2 Mathematics</p>
-  <p>&copy; 2002-<?php echo date('Y'); ?> <a href="http://www.simonjobling.com">Simon Jobling</a>. Created in conjunction with Butts Primary School, Walsall.</p>
+  <p>&copy; 2002-<?php echo date('Y'); ?> <a href="http://sijobling.com">Simon Jobling</a>. Created in conjunction with Butts Primary School, Walsall for <a href="http://www.staffs.ac.uk/">Staffordshire University</a>.</p>
 </div>
