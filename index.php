@@ -3,10 +3,7 @@
 <head>
 <title>Hitting the Target - Learning Angles Through Sports (Key Stage 2)</title>
 <meta http-equiv="imagetoolbar" content="no" />
-<meta name="description" content="Learning angles through sport with 
-this interactive edutainment Flash gam created by Simon Jobling for 
-Butts 
-Primary School">
+<meta name="description" content="Learning angles through sport with this interactive edutainment Flash gam created by Simon Jobling for Butts Primary School">
 <meta name="Keywords" content="hitting the target, key stage 2 mathematics, angles" />
 <link href="css.css" rel="stylesheet" type="text/css" />
 <!-- TradeDoubler site verification 1722282 -->
@@ -39,13 +36,13 @@ Primary School">
 	<a href="http://www.beaweb.org/festival/2004winners.html#StuIMM" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="images/award_bea.gif" alt="Broadcast Education Association Festival of Media 2004 - 1st for Online Instruct/Train" title="Broadcast Education Association Festival of Media 2004 - 1st for Online Instruct/Train" /></a>
 	<a href="http://www.mandogroup.com/" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"><img src="images/award_mando.gif" alt="Mando Student Website Design Awards 2003 - Top 10 Finalist" title="Mando Student Website Design Awards 2003 - Top 10 Finalist" /></a>
   </div>
- <? include ("inc/text_link_ads.php") ?>
-<? include ("inc/google.php") ?>
+ <?php // include ("inc/text_link_ads.php") ?>
+<?php include ("inc/google.php") ?>
 </div>
   <div id="footer">
-<? include ("inc/footer.php") ?>
+<?php include ("inc/footer.php") ?>
   </div>
 </div>
-<? include("inc/analytics.php"); ?>
+<?php include("inc/analytics.php"); ?>
 </body>
 </html>
