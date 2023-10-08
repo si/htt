@@ -1,2 +1,6 @@
 # Redirects from what the browser requests to what we serve
-/hittingthetarget.php   /hitting-the-target/
+/index.php                  /
+/hittingthetarget.php       /hitting-the-target/
+/educational-resources.php  /educational-resources/
+/further-information.php    /further-information/
+
